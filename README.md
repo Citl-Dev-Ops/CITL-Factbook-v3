@@ -41,13 +41,13 @@ Requires [Ollama](https://ollama.ai) running locally with at least one model pul
 
 | Name | Role |
 |------|------|
-| **Doc McDowell** | Project Lead, CITL Director of Instructional Technology |
 | **Abdo Mohammed** | Lead Developer — Factbook AI Engine & RAG Systems |
 | **Wahaj Al Obid** | Lead Developer — Academic Advisor v2.0 |
+| **Doc McDowell** | Project Lead, CITL AI and Systems Architect |
 | **Jerome Anti Porta** | Developer — UI/UX, App Integration |
 | **Jonathan Reed** | Developer — LLMOps & Model Management |
 | **Peter Anderson** | Developer — AV/IT Operations & Network Tools |
-| **Will Cram** | Developer — Sync Systems & Portable Deployment |
+| **Will Cram** | Developer — E-Learning Administrator and Software Architect |
 | **William Grainger** | Developer — Technical Writing & Documentation Tools |
 | **Mason Jones** | Developer — Staff Toolkit & Field Apps |
 
