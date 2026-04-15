@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.bak*
+dist/
+build/
+*.exe
+*.zip
+.env
+data/config.json
+data/recordings/
+*_embeddings.json
+index/
+bin/
+~$*.docx

@@ -1,0 +1,7 @@
+ollama
+requests
+python-docx
+lxml
+sounddevice
+soundfile
+faster-whisper
